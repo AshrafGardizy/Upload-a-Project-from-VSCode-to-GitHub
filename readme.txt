@@ -1,4 +1,5 @@
- ## Upload a Project from Visual Studio Code to GitHub##
+## Upload a Project from Visual Studio Code to GitHub
+ 
  
  To upload your project in GitHub using Visual Studio Code, follow the following steps.
 
